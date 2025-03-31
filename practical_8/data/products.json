@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Smartphone X",
+            "category": "electronics",
+            "price": 999.99,
+            "description": "Latest smartphone with advanced features"
+        },
+        {
+            "id": 2,
+            "name": "Laptop Pro",
+            "category": "electronics",
+            "price": 1499.99,
+            "description": "High-performance laptop for professionals"
+        },
+        {
+            "id": 3,
+            "name": "Running Shoes",
+            "category": "sports",
+            "price": 79.99,
+            "description": "Comfortable running shoes for athletes"
+        }
+    ]
+} 
